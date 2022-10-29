@@ -1,23 +1,4 @@
-# Assignment
-first repo
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No, thanks
-2 of 20
-README (1).md
-Inbox
-
-barnabas daang
-Attachments
-28 Oct 2022, 16:00 (10 hours ago)
-to me
-
- One attachment
-  • Scanned by Gmail
 <h1 align="center">Hi 👋, I'm Barnabas</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
